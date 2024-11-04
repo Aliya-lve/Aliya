@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Aliya</title>
+        <link>http://localhost:1313/Aliya/post/</link>
+        <description>Recent content in Posts on Aliya</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Aliya</copyright>
+        <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Aliya/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Aliya&#39; Monologue</title>
+        <link>http://localhost:1313/Aliya/p/test-chinese/</link>
+        <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/Aliya/p/test-chinese/</guid>
+        <description>&lt;img src="http://localhost:1313/Aliya/p/test-chinese/01.jpg" alt="Featured image of post Aliya&#39; Monologue" /&gt;&lt;h2 id=&#34;life&#34;&gt;life
+&lt;/h2&gt;&lt;p&gt;死亡是你的未来，也是我的过去。&lt;br&gt;
+就算没有人在乎，也要好好爱自己。&lt;br&gt;
+烟花虽然短暂&amp;hellip;&lt;br&gt;
+但不也展现出来自己最美的时刻了吗？&lt;br&gt;
+我们都希望被爱。&lt;/p&gt;
+&lt;h2 id=&#34;myself&#34;&gt;Myself
+&lt;/h2&gt;&lt;p&gt;对自己的不自信，对别人的胡思乱想，&lt;br&gt;
+一点安全感都没有，&lt;br&gt;
+迷迷糊糊的答案真的让人很气愤，&lt;br&gt;
+时间也是，要是能快点就好了，&lt;br&gt;
+这样子我就能早点知道答案了。&lt;br&gt;
+&lt;img src=&#34;http://localhost:1313/Aliya/Aliya/p/test-chinese/02.jpg&#34;
+	width=&#34;468&#34;
+	height=&#34;301&#34;
+	srcset=&#34;http://localhost:1313/Aliya/Aliya/p/test-chinese/02_hu9534131749943819185.jpg 480w, http://localhost:1313/Aliya/Aliya/p/test-chinese/02_hu14506933002453760167.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;155&#34;
+		data-flex-basis=&#34;373px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
